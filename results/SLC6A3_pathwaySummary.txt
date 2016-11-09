@@ -1,0 +1,2 @@
+gene name: SLC6A3
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs

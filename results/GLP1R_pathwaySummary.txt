@@ -1,0 +1,2 @@
+gene name: GLP1R
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs

@@ -1,0 +1,2 @@
+gene name: PPARA
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs

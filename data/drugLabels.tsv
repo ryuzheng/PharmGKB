@@ -1,0 +1,691 @@
+PharmGKB ID	Name	Source	Biomarker Flag	Testing Level
+PA166104782	FDA Label for azathioprine and TPMT	FDA	On	Genetic testing recommended
+PA166104783	FDA Label for rasburicase and CYB5R1,CYB5R2,CYB5R3,CYB5R4	FDA	On	Informative PGx
+PA166104784	FDA Label for diazepam and CYP2C19	FDA	On	Actionable PGx
+PA166104785	FDA Label for erlotinib and EGFR	FDA	On	Genetic testing required
+PA166104786	FDA Label for chloroquine and G6PD	FDA	On	Actionable PGx
+PA166104787	FDA Label for cevimeline and CYP2D6	FDA	On	Actionable PGx
+PA166104775	FDA Label for atorvastatin and LDLR	FDA	Off (Formerly On)	Actionable PGx
+PA166104778	FDA Label for brentuximab vedotin and TNFRSF8	FDA	Off (Formerly On)	Informative PGx
+PA166104777	FDA Label for clopidogrel and CYP2C19	FDA	On	Genetic testing recommended
+PA166104779	EMA Label for indacaterol and ADRB2	EMA	Off (Never On)	Informative PGx
+PA166104780	FDA Label for carbamazepine and HLA-B	FDA	On	Genetic testing required
+PA166104781	FDA Label for dasatinib and ABL1,BCR	FDA	On	Genetic testing required
+PA166104800	FDA Label for indacaterol and UGT1A1	FDA	On	Informative PGx
+PA166104801	FDA Label for peginterferon alfa-2b and IFNL3	FDA	Off (Formerly On)	Actionable PGx
+PA166104802	FDA Label for capecitabine and DPYD	FDA	On	Actionable PGx
+PA166104803	FDA Label for maraviroc and CCR5	FDA	Off (Formerly On)	Genetic testing required
+PA166104788	FDA Label for fluoxetine,olanzapine and CYP2D6	FDA	Off (Never On)	Informative PGx
+PA166104789	FDA Label for gefitinib and EGFR	FDA	On	Genetic testing required
+PA166104790	FDA Label for imatinib and ABL1,BCR,KIT	FDA	On	Genetic testing required
+PA166104791	FDA Label for lapatinib and ERBB2	FDA	On	Genetic testing required
+PA166151878	FDA Label for lapatinib and HLA-DQA1,HLA-DRB1	FDA	On	Actionable PGx
+PA166104792	FDA Label for fulvestrant and ESR1,PGR	FDA	On	Genetic testing required
+PA166104793	FDA Label for risperidone and CYP2D6	FDA	On	Informative PGx
+PA166104795	FDA Label for busulfan and ABL1,BCR	FDA	On	Actionable PGx
+PA166104794	FDA Label for phenylacetic acid,sodium benzoate and ARG1,ASL,ASS1,CPS1,NAGS,OTC	FDA	On	Genetic testing required
+PA166104796	FDA Label for trastuzumab emtansine and ERBB2	FDA	On	Genetic testing required
+PA166104797	FDA Label for letrozole and ESR1,PGR	FDA	On	Genetic testing required
+PA166104798	FDA Label for propranolol and CYP2D6	FDA	On	Informative PGx
+PA166104799	FDA Label for tramadol and CYP2D6	FDA	On	Actionable PGx
+PA166104804	FDA Label for tositumomab and MS4A1	FDA	On	Informative PGx
+PA166104805	FDA Label for thioridazine and CYP2D6	FDA	On	Actionable PGx
+PA166104806	FDA Label for tolterodine and CYP2D6	FDA	On	Actionable PGx
+PA166104807	FDA Label for fluorouracil and DPYD	FDA	On	Actionable PGx
+PA166104814	FDA Label for drospirenone,ethinyl estradiol and CYP2C19	FDA	On	Informative PGx
+PA166104815	FDA Label for clozapine and CYP2D6	FDA	On	Actionable PGx
+PA166104816	FDA Label for esomeprazole and CYP2C19	FDA	On	Actionable PGx
+PA166104808	FDA Label for nelfinavir and CYP2C19,CYP3A	FDA	Off (Never On)	Informative PGx
+PA166104809	FDA Label for panitumumab and EGFR,KRAS	FDA	On	Genetic testing required
+PA166104811	FDA Label for quinidine and CYP2D6	FDA	On	Informative PGx
+PA166104810	FDA Label for mercaptopurine and TPMT	FDA	On	Genetic testing recommended
+PA166104812	FDA Label for protriptyline and CYP2D6	FDA	On	Actionable PGx
+PA166104813	FDA Label for carvedilol and CYP2D6	FDA	On	Actionable PGx
+PA166104825	FDA Label for valproic acid and ABL2,ASL,ASS1,CPS1,NAGS,OTC,POLG	FDA	On	Actionable PGx
+PA166104826	FDA Label for cetuximab and EGFR,KRAS	FDA	On	Genetic testing required
+PA166104827	FDA Label for atomoxetine and CYP2D6	FDA	On	Actionable PGx
+PA166104817	FDA Label for tretinoin and PML,RARA	FDA	On	Genetic testing required
+PA166104818	FDA Label for voriconazole and CYP2C19	FDA	On	Actionable PGx
+PA166104819	FDA Label for tamoxifen and ESR1,ESR2,F2,F5	FDA	On	Actionable PGx
+PA166104820	FDA Label for doxepin and CYP2C19,CYP2D6	FDA	On	Actionable PGx
+PA166104821	EMA Label for arsenic trioxide and PML,RARA	EMA	Off (Never On)	Genetic testing required
+PA166104822	FDA Label for terbinafine and CYP2D6	FDA	Off (Formerly On)	Informative PGx
+PA166104823	EMA Label for methylene blue and BLVRB,CYB5R3,G6PD	EMA	Off (Never On)	Actionable PGx
+PA166104828	FDA Label for hydralazine,isosorbide dinitrate and NAT2	FDA	On	Informative PGx
+PA166104829	FDA Label for tetrabenazine and CYP2D6	FDA	On	Genetic testing required
+PA166104830	FDA Label for tiotropium and CYP2D6	FDA	Off (Never On)	Informative PGx
+PA166104831	FDA Label for irinotecan and UGT1A1	FDA	On	Actionable PGx
+PA166104832	FDA Label for carisoprodol and CYP2C19	FDA	On	Actionable PGx
+PA166104833	FDA Label for abacavir and HLA-B	FDA	On	Genetic testing required
+PA166104834	FDA Label for lenalidomide	FDA	On	Informative PGx
+PA166104835	FDA Label for fluoxetine and CYP2D6	FDA	On	Informative PGx
+PA166104836	FDA Label for metoprolol and CYP2D6	FDA	On	Informative PGx
+PA166104837	FDA Label for propafenone and CYP2D6	FDA	On	Actionable PGx
+PA166104838	FDA Label for thioguanine and TPMT	FDA	On	Actionable PGx
+PA166104843	FDA Label for celecoxib and CYP2C9	FDA	On	Actionable PGx
+PA166104844	EMA Label for erlotinib and EGFR,UGT1A1	EMA	Off (Never On)	Genetic testing required
+PA166104845	FDA Label for dapsone and G6PD	FDA	On	Actionable PGx
+PA166104846	FDA Label for arsenic trioxide and PML,RARA	FDA	On	Genetic testing required
+PA166104847	FDA Label for venlafaxine and CYP2D6	FDA	On	Informative PGx
+PA166104848	FDA Label for rabeprazole and CYP2C19	FDA	On	Informative PGx
+PA166104839	FDA Label for aripiprazole and CYP2D6	FDA	On	Actionable PGx
+PA166104840	EMA Label for lapatinib and ERBB2,HLA-DQA1,HLA-DRB1	EMA	Off (Never On)	Genetic testing required
+PA166104841	EMA Label for clopidogrel and CYP2C19	EMA	Off (Never On)	Actionable PGx
+PA166104842	FDA Label for nilotinib and ABL1,BCR	FDA	On	Genetic testing required
+PA166151974	HCSC Label for nilotinib and UGT1A1	HCSC		Actionable PGx
+PA166159963	FDA Label for blinatumomab and ABL1,BCR	FDA	On	Actionable PGx
+PA166160010	FDA Label for dolutegravir and UGT1A1	FDA	On	Actionable PGx
+PA166160039	FDA Label for evolocumab and LDLR	FDA	On	Actionable PGx
+PA166160040	FDA Label for Parathyroid Hormones And Analogues and CASR	FDA	On	Actionable PGx
+PA166160049	FDA Label for lacosamide and CYP2C19	FDA	On	Informative PGx
+PA166160051	FDA Label for alectinib and ALK	FDA	On	Genetic testing required
+PA166160289	HCSC Label for brivaracetam and CYP2C19	HCSC		Informative PGx
+PA166160133	FDA Label for palbociclib and ERBB2,ESR1	FDA	On	Genetic testing required
+PA166160052	FDA Label for palonosetron and CYP2D6	FDA	On	Informative PGx
+PA166104850	FDA Label for isoniazid,pyrazinamide,rifampin and NAT2	FDA	On	Informative PGx
+PA166104851	FDA Label for ticagrelor and CYP3A4,CYP3A5	FDA	On	Informative PGx
+PA166104852	FDA Label for citalopram and CYP2C19,CYP2D6	FDA	On	Actionable PGx
+PA166104853	FDA Label for cisplatin and TPMT	FDA	On	Informative PGx
+PA166105213	FDA Label for oxcarbazepine and HLA-B	FDA	Off (Never On)	Genetic testing recommended
+PA166104854	FDA Label for fluvoxamine and CYP2D6	FDA	On	Actionable PGx
+PA166104855	FDA Label for boceprevir and IFNL3	FDA	On	Informative PGx
+PA166104858	FDA Label for vemurafenib and BRAF	FDA	On	Genetic testing required
+PA166104856	FDA Label for amitriptyline and CYP2D6	FDA	On	Actionable PGx
+PA166104857	FDA Label for trimipramine and CYP2D6	FDA	On	Actionable PGx
+PA166104859	FDA Label for crizotinib and ALK	FDA	On	Genetic testing required
+PA166104860	FDA Label for phenytoin and CYP2C19,CYP2C9,HLA-B	FDA	On	Actionable PGx
+PA166104872	EMA Label for boceprevir and IFNL3	EMA	Off (Never On)	Informative PGx
+PA166104874	FDA Label for sulfamethoxazole,trimethoprim and G6PD	FDA	On	Actionable PGx
+PA166104875	FDA Label for clomipramine and CYP2D6	FDA	On	Actionable PGx
+PA166104876	FDA Label for primaquine and G6PD	FDA	On	Actionable PGx
+PA166104861	FDA Label for desloratadine	FDA	Off (Never On)	
+PA166104862	FDA Label for desipramine and CYP2D6	FDA	On	Actionable PGx
+PA166104863	FDA Label for dexlansoprazole and CYP2C19	FDA	On	Actionable PGx
+PA166104864	FDA Label for paroxetine and CYP2D6	FDA	On	Informative PGx
+PA166104866	FDA Label for pravastatin and APOE	FDA	Off (Never On)	Informative PGx
+PA166122947	EMA Label for ranolazine and CYP2D6	EMA	Off (Never On)	Actionable PGx
+PA166104867	FDA Label for telaprevir and IFNL3	FDA	On	Actionable PGx
+PA166104869	FDA Label for galantamine and CYP2D6	FDA	On	Informative PGx
+PA166104868	FDA Label for modafinil and CYP2D6	FDA	On	Actionable PGx
+PA166104870	FDA Label for pimozide and CYP2D6	FDA	On	Genetic testing required
+PA166104877	FDA Label for mycophenolic acid and HPRT1	FDA	On	Actionable PGx
+PA166104878	FDA Label for methylene blue and G6PD	FDA	On	Actionable PGx
+PA166104879	FDA Label for imipramine and CYP2D6	FDA	On	Actionable PGx
+PA166104880	FDA Label for nefazodone and CYP2D6	FDA	On	Informative PGx
+PA166104881	FDA Label for glibenclamide and G6PD	FDA	On	Actionable PGx
+PA166104882	EMA Label for desloratadine	EMA	Off (Never On)	Informative PGx
+PA166104883	FDA Label for denileukin diftitox and IL2RA	FDA	On	Genetic testing required
+PA166104884	FDA Label for clobazam and CYP2C19	FDA	On	Actionable PGx
+PA166104885	FDA Label for norfloxacin and G6PD	FDA	Off (Never On)	Actionable PGx
+PA166104886	FDA Label for dextromethorphan,quinidine and CYP2D6	FDA	On	Genetic testing recommended
+PA166104887	FDA Label for iloperidone and CYP2D6	FDA	On	Actionable PGx
+PA166104888	FDA Label for nortriptyline and CYP2D6	FDA	On	Actionable PGx
+PA166104889	FDA Label for pertuzumab and ERBB2	FDA	On	Genetic testing required
+PA166104890	FDA Label for ivacaftor and CFTR	FDA	On	Genetic testing required
+PA166104898	FDA Label for lansoprazole and CYP2C19	FDA	On	Informative PGx
+PA166104899	EMA Label for aripiprazole and CYP2D6,CYP3A4	EMA	Off (Never On)	Actionable PGx
+PA166104900	FDA Label for pegloticase and G6PD	FDA	On	Genetic testing recommended
+PA166104901	FDA Label for pantoprazole and CYP2C19	FDA	On	Actionable PGx
+PA166104902	FDA Label for sulfadiazine and G6PD	FDA	Off (Never On)	Actionable PGx
+PA166104903	FDA Label for nitrofurantoin and G6PD	FDA	On	Actionable PGx
+PA166104904	EMA Label for brentuximab vedotin and TNFRSF8	EMA	Off (Never On)	Genetic testing required
+PA166104905	EMA Label for capecitabine and DPYD	EMA	Off (Never On)	Actionable PGx
+PA166104906	FDA Label for probenecid and G6PD	FDA	Off (Never On)	Actionable PGx
+PA166104891	FDA Label for nalidixic acid and G6PD	FDA	On	Actionable PGx
+PA166104892	FDA Label for sulfasalazine and G6PD	FDA	Off (Never On)	Actionable PGx
+PA166104893	FDA Label for perphenazine and CYP2D6	FDA	On	Actionable PGx
+PA166104894	EMA Label for rasburicase and G6PD	EMA	Off (Never On)	Actionable PGx
+PA166104895	FDA Label for erythromycin,sulfisoxazole and G6PD	FDA	Off (Never On)	Actionable PGx
+PA166104896	EMA Label for abacavir and HLA-B	EMA	Off (Never On)	Genetic testing required
+PA166104897	FDA Label for vitamin c and G6PD	FDA	On	Actionable PGx
+PA166104907	EMA Label for eltrombopag and F5,SERPINC1	EMA	Off (Never On)	Actionable PGx
+PA166104908	EMA Label for cetuximab and EGFR,KRAS	EMA	Off (Never On)	Genetic testing required
+PA166104909	EMA Label for crizotinib and ALK	EMA	Off (Never On)	Genetic testing required
+PA166104911	EMA Label for everolimus and ERBB2	EMA	Off (Never On)	Actionable PGx
+PA166104912	FDA Label for eltrombopag and F5,SERPINC1	FDA	On	Actionable PGx
+PA166104913	FDA Label for everolimus and ERBB2,ESR1	FDA	On	Genetic testing required
+PA166104914	EMA Label for dasatinib and ABL1,BCR	EMA	Off (Never On)	Genetic testing required
+PA166104915	EMA Label for olanzapine and CYP1A2,CYP2D6	EMA	Off (Never On)	Informative PGx
+PA166104916	FDA Label for codeine and CYP2D6	FDA	On	Actionable PGx
+PA166104917	FDA Label for prasugrel and CYP2B6,CYP2C19,CYP2C9,CYP3A5	FDA	On	Informative PGx
+PA166104919	EMA Label for fulvestrant and ESR1,ESR2,MKI67	EMA	Off (Never On)	Genetic testing required
+PA166104920	FDA Label for trastuzumab and ERBB2	FDA	On	Genetic testing required
+PA166104921	FDA Label for omeprazole and CYP2C19	FDA	On	Informative PGx
+PA166104922	FDA Label for flurbiprofen and CYP2C9	FDA	On	Informative PGx
+PA166104923	FDA Label for exemestane and ESR1,PGR	FDA	On	Genetic testing required
+PA166104924	EMA Label for maraviroc and CCR5	EMA	Off (Never On)	Genetic testing required
+PA166104925	FDA Label for timolol and CYP2D6	FDA	Off (Never On)	
+PA166104926	EMA Label for imatinib and ABL1,BCR,FIP1L1,KIT,PDGFRB	EMA	Off (Never On)	Genetic testing required
+PA166104927	EMA Label for lenalidomide	EMA	Off (Never On)	Informative PGx
+PA166104928	EMA Label for ivacaftor and CFTR	EMA	Off (Never On)	Genetic testing required
+PA166104929	FDA Label for clomifene and RHD	FDA	Off (Never On)	
+PA166104930	EMA Label for gefitinib and CYP2D6,CYP3A4,EGFR	EMA	Off (Never On)	Genetic testing required
+PA166122907	EMA Label for vandetanib and RET	EMA	Off (Never On)	Genetic testing recommended
+PA166152939	FDA Label for ivacaftor / lumacaftor and CFTR	FDA	On	Genetic testing required
+PA166159586	HCSC Label for aliskiren and ABCB1	HCSC		Informative PGx
+PA166159964	FDA Label for olaparib and BRCA1,BRCA2	FDA	On	Genetic testing required
+PA166160288	HCSC Label for brentuximab vedotin and TNFRSF8	HCSC		Informative PGx
+PA166123543	PMDA Label for indacaterol and UGT1A1	PMDA	Off (Never On)	Informative PGx
+PA166122548	EMA Label for velaglucerase alfa and GBA	EMA	Off (Never On)	Genetic testing required
+PA166122971	FDA Label for darifenacin and CYP2D6	FDA	Off (Never On)	Actionable PGx
+PA166105334	EMA Label for nilotinib and ABL1,BCR	EMA	Off (Never On)	Genetic testing required
+PA166114317	FDA Label for sodium phenylbutyrate and ASS1,CPS1,OTC	FDA	Off (Formerly On)	Genetic testing required
+PA166105070	FDA Label for anastrozole and ESR1,ESR2,PGR	FDA	On	Genetic testing required
+PA166105010	FDA Label for duloxetine	FDA	Off (Never On)	
+PA166105153	FDA Label for histamine phosphate	FDA	Off (Never On)	
+PA166105268	FDA Label for tirofiban	FDA	Off (Never On)	
+PA166105025	FDA Label for eletriptan	FDA	Off (Never On)	
+PA166105182	FDA Label for losartan	FDA	Off (Never On)	
+PA166105073	FDA Label for atenolol	FDA	Off (Never On)	
+PA166105221	FDA Label for pioglitazone	FDA	Off (Never On)	
+PA166105236	FDA Label for reserpine	FDA	Off (Never On)	
+PA166105220	FDA Label for pindolol	FDA	Off (Never On)	
+PA166105098	FDA Label for colestipol	FDA	Off (Never On)	
+PA166105267	FDA Label for tinzaparin	FDA	Off (Never On)	
+PA166105209	FDA Label for nitroglycerin	FDA	Off (Never On)	
+PA166105164	FDA Label for interferon beta-1a	FDA	Off (Never On)	
+PA166105026	FDA Label for pitavastatin	FDA	Off (Never On)	
+PA166105197	FDA Label for mirtazapine	FDA	Off (Never On)	
+PA166105138	FDA Label for fluvastatin	FDA	Off (Never On)	
+PA166105056	FDA Label for Ixabepilone	FDA	Off (Never On)	
+PA166105125	FDA Label for estramustine	FDA	Off (Never On)	
+PA166105031	FDA Label for tetrahydrobiopterin	FDA	Off (Never On)	
+PA166105181	FDA Label for lorazepam	FDA	Off (Never On)	
+PA166105085	FDA Label for carboplatin	FDA	Off (Never On)	
+PA166105140	FDA Label for fosinopril	FDA	Off (Never On)	
+PA166105275	FDA Label for triamcinolone	FDA	Off (Never On)	
+PA166105072	FDA Label for aspirin	FDA	Off (Never On)	
+PA166105165	FDA Label for interferon beta-1b	FDA	Off (Never On)	
+PA166105253	FDA Label for sulfadoxine	FDA	Off (Never On)	
+PA166105180	FDA Label for lopinavir	FDA	Off (Never On)	
+PA166105315	EMA Label for nelfinavir and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166160045	FDA Label for cobimetinib and BRAF	FDA	On	Genetic testing required
+PA166159707	HCSC Label for atazanavir and CYP2C19	HCSC		Informative PGx
+PA166153432	FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6	FDA	Off (Never On)	Actionable PGx
+PA166153492	FDA Label for brivaracetam and CYP2C19	FDA	Off (Never On)	Actionable PGx
+PA166122487	EMA Label for propranolol and CYP2D6	EMA	Off (Never On)	Informative PGx
+PA166105212	FDA Label for oseltamivir	FDA	Off (Never On)	
+PA166105116	FDA Label for droperidol	FDA	Off (Never On)	
+PA166105120	FDA Label for epinephrine	FDA	Off (Never On)	
+PA166105054	FDA Label for ethambutol	FDA	Off (Never On)	
+PA166105204	FDA Label for naproxen	FDA	Off (Never On)	
+PA166105151	FDA Label for haloperidol	FDA	Off (Never On)	
+PA166105171	FDA Label for ketorolac	FDA	Off (Never On)	
+PA166105254	FDA Label for tacrine	FDA	Off (Never On)	
+PA166105014	FDA Label for vigabatrin	FDA	Off (Never On)	
+PA166105169	FDA Label for itraconazole	FDA	Off (Never On)	
+PA166105077	FDA Label for bleomycin	FDA	Off (Never On)	
+PA166105193	FDA Label for methotrexate	FDA	Off (Never On)	
+PA166105083	FDA Label for capsaicin	FDA	Off (Never On)	
+PA166105078	FDA Label for budesonide	FDA	Off (Never On)	
+PA166105121	FDA Label for epirubicin	FDA	Off (Never On)	
+PA166105139	FDA Label for folic acid	FDA	Off (Never On)	
+PA166105055	FDA Label for certolizumab pegol	FDA	Off (Never On)	
+PA166105270	FDA Label for tolbutamide	FDA	Off (Never On)	
+PA166105144	FDA Label for gemcitabine	FDA	Off (Never On)	
+PA166105211	FDA Label for ondansetron	FDA	Off (Never On)	
+PA166105060	FDA Label for 1,25-dihydroxyvitamin d3	FDA	Off (Never On)	
+PA166105030	FDA Label for dronedarone	FDA	Off (Never On)	
+PA166105076	FDA Label for benazepril	FDA	Off (Never On)	
+PA166105150	FDA Label for griseofulvin	FDA	Off (Never On)	
+PA166105028	FDA Label for nebivolol	FDA	Off (Never On)	
+PA166105013	FDA Label for valdecoxib	FDA	Off (Never On)	
+PA166105029	FDA Label for posaconazole	FDA	Off (Never On)	
+PA166105194	FDA Label for methylphenidate	FDA	Off (Never On)	
+PA166105061	FDA Label for acebutolol	FDA	Off (Never On)	
+PA166105206	FDA Label for nicotine	FDA	Off (Never On)	
+PA166105255	FDA Label for tacrolimus	FDA	Off (Never On)	
+PA166105167	FDA Label for isoproterenol	FDA	Off (Never On)	
+PA166105189	FDA Label for mesoridazine	FDA	Off (Never On)	
+PA166105172	FDA Label for lamivudine	FDA	Off (Never On)	
+PA166105233	FDA Label for raloxifene	FDA	Off (Never On)	
+PA166105082	FDA Label for candesartan	FDA	Off (Never On)	
+PA166105143	FDA Label for ganciclovir	FDA	Off (Never On)	
+PA166105272	FDA Label for topotecan	FDA	Off (Never On)	
+PA166105115	FDA Label for doxorubicin	FDA	Off (Never On)	
+PA166105053	FDA Label for alemtuzumab	FDA	Off (Never On)	
+PA166105100	FDA Label for cyclosporine	FDA	Off (Never On)	
+PA166105090	FDA Label for chlorpromazine	FDA	Off (Never On)	
+PA166105122	FDA Label for epoprostenol	FDA	Off (Never On)	
+PA166105173	FDA Label for lamotrigine	FDA	Off (Never On)	
+PA166105234	FDA Label for ramipril	FDA	Off (Never On)	
+PA166105229	FDA Label for propylthiouracil	FDA	Off (Never On)	
+PA166105075	FDA Label for beclomethasone	FDA	Off (Never On)	
+PA166105012	FDA Label for escitalopram and CYP2C19,CYP2D6	FDA	On	Actionable PGx
+PA166105256	FDA Label for telmisartan	FDA	Off (Never On)	
+PA166105168	FDA Label for isotretinoin	FDA	Off (Never On)	
+PA166105205	FDA Label for nevirapine	FDA	Off (Never On)	
+PA166105079	FDA Label for bupropion	FDA	Off (Never On)	
+PA166105081	FDA Label for calcipotriol	FDA	Off (Never On)	
+PA166105271	FDA Label for topiramate	FDA	Off (Never On)	
+PA166105114	FDA Label for doxazosin	FDA	Off (Never On)	
+PA166105142	FDA Label for gabapentin	FDA	Off (Never On)	
+PA166105210	FDA Label for norepinephrine	FDA	Off (Never On)	
+PA166105057	FDA Label for fluticasone/salmeterol	FDA	Off (Never On)	
+PA166105123	FDA Label for erythromycin	FDA	Off (Never On)	
+PA166105137	FDA Label for fluticasone propionate	FDA	Off (Never On)	
+PA166105032	FDA Label for sunitinib	FDA	Off (Never On)	
+PA166105108	FDA Label for disopyramide	FDA	Off (Never On)	
+PA166105113	FDA Label for donepezil	FDA	Off (Never On)	
+PA166105196	FDA Label for metronidazole	FDA	Off (Never On)	
+PA166105251	FDA Label for spironolactone	FDA	Off (Never On)	
+PA166105074	FDA Label for aztreonam	FDA	Off (Never On)	
+PA166105248	FDA Label for simvastatin	FDA	Off (Never On)	
+PA166105207	FDA Label for nifedipine	FDA	Off (Never On)	
+PA166105235	FDA Label for repaglinide	FDA	Off (Never On)	
+PA166105011	FDA Label for epoetin alfa	FDA	Off (Never On)	
+PA166105154	FDA Label for hydrochlorothiazide	FDA	Off (Never On)	
+PA166105097	FDA Label for colesevelam	FDA	Off (Never On)	
+PA166105069	FDA Label for amoxicillin	FDA	Off (Never On)	
+PA166105166	FDA Label for irbesartan	FDA	Off (Never On)	
+PA166105269	FDA Label for tobramycin	FDA	Off (Never On)	
+PA166105219	FDA Label for phenobarbital	FDA	Off (Never On)	
+PA166105024	FDA Label for formoterol	FDA	Off (Never On)	
+PA166105033	FDA Label for paliperidone	FDA	Off (Never On)	
+PA166105112	FDA Label for dolasetron	FDA	Off (Never On)	
+PA166105086	FDA Label for carmustine	FDA	Off (Never On)	
+PA166105124	FDA Label for estradiol	FDA	Off (Never On)	
+PA166105136	FDA Label for fluphenazine	FDA	Off (Never On)	
+PA166105141	FDA Label for furosemide	FDA	Off (Never On)	
+PA166105273	FDA Label for tranylcypromine	FDA	Off (Never On)	
+PA166105068	FDA Label for amlodipine	FDA	Off (Never On)	
+PA166105319	EMA Label for panitumumab and KRAS	EMA	Off (Never On)	Genetic testing required
+PA166105321	EMA Label for prasugrel and CYP2C19	EMA	Off (Never On)	Informative PGx
+PA166105058	FDA Label for pazopanib and UGT1A1	FDA	On	Actionable PGx
+PA166105064	FDA Label for salbutamol	FDA	Off (Never On)	
+PA166105187	FDA Label for meperidine	FDA	Off (Never On)	
+PA166105261	FDA Label for testosterone	FDA	Off (Never On)	
+PA166105176	FDA Label for levetiracetam	FDA	Off (Never On)	
+PA166122589	FDA Label for afutuzumab and MS4A1	FDA	On	Informative PGx
+PA166122592	FDA Label for simeprevir and IFNL3	FDA	On	Informative PGx
+PA166122970	FDA Label for succinylcholine and BCHE,CACNA1S,RYR1	FDA	Off (Never On)	Actionable PGx
+PA166159064	FDA Label for elosulfase alfa and GALNS	FDA	On	Genetic testing required
+PA166159938	HCSC Label for belimumab and TNFSF13B	HCSC		Informative PGx
+PA166159962	FDA Label for alirocumab and LDLR	FDA	On	Actionable PGx
+PA166160005	FDA Label for viekira pak and IFNL3	FDA	On	Informative PGx
+PA166160007	FDA Label for lesinurad and CYP2C9	FDA	On	Actionable PGx
+PA166160009	FDA Label for pembrolizumab and BRAF,CD274	FDA	On	Genetic testing required
+PA166160046	FDA Label for cobimetinib and BRAF	FDA	On	Genetic testing required
+PA166160054	FDA Label for brexpiprazole and CYP2D6	FDA	On	Actionable PGx
+PA166160056	FDA Label for cholic acid and AKR1D1,AMACR,CYP27A1,CYP7A1,DHCR7,HSD3B7	FDA	On	Genetic testing required
+PA166160121	FDA Label for nivolumab and BRAF,CD274	FDA	On	Informative PGx
+PA166122969	EMA Label for vardenafil	EMA	Off (Never On)	Informative PGx
+PA166115435	EMA Label for timolol and CYP2D6	EMA	Off (Never On)	Informative PGx
+PA166120286	EMA Label for esomeprazole and CYP2C19	EMA	Off (Never On)	Informative PGx
+PA166114928	FDA Label for mipomersen and LDLR	FDA	On	Actionable PGx
+PA166105148	FDA Label for glipizide and G6PD	FDA	On	Actionable PGx
+PA166114931	FDA Label for ponatinib and ABL1,BCR	FDA	On	Actionable PGx
+PA166105147	FDA Label for glimepiride and G6PD	FDA	On	Actionable PGx
+PA166121326	EMA Label for pazopanib and UGT1A1	EMA	Off (Never On)	Actionable PGx
+PA166121252	EMA Label for ofatumumab and MS4A1	EMA	Off (Never On)	Informative PGx
+PA166120287	EMA Label for ethinyl estradiol,norelgestromin and F5	EMA	Off (Never On)	Genetic testing required
+PA166117941	EMA Label for bosutinib and ABL1,BCR	EMA	Off (Never On)	Genetic testing required
+PA166122966	EMA Label for darifenacin and CYP2D6	EMA	Off (Never On)	Actionable PGx
+PA166105059	FDA Label for ofatumumab and MS4A1	FDA	Off (Formerly On)	Informative PGx
+PA166121250	EMA Label for lomitapide and APOB,LDLR,PCSK9	EMA	Off (Never On)	Genetic testing required
+PA166114941	FDA Label for pravastatin and LDLR	FDA	On	Actionable PGx
+PA166121327	EMA Label for pegloticase and G6PD	EMA	Off (Never On)	Genetic testing required
+PA166114381	EMA Label for sodium phenylbutyrate and ASS1,CPS1,OTC	EMA	Off (Never On)	Informative PGx
+PA166119824	EMA Label for belimumab and TNFSF13B	EMA	Off (Never On)	Informative PGx
+PA166123542	PMDA Label for imatinib and ABL1,BCR,FIP1L1,KIT,PDGFRA	PMDA	Off (Never On)	Genetic testing required
+PA166114912	FDA Label for dabrafenib and BRAF	FDA	On	Genetic testing required
+PA166121246	EMA Label for ibritumomab and MS4A1	EMA	Off (Never On)	Genetic testing required
+PA166114944	FDA Label for regorafenib and EGFR,KRAS,VEGFA	FDA	Off (Never On)	Informative PGx
+PA166105023	FDA Label for rosuvastatin and LDLR,SLCO1B1	FDA	On	Actionable PGx
+PA166119823	EMA Label for afatinib and EGFR	EMA	Off (Never On)	Genetic testing required
+PA166120370	EMA Label for glimepiride and G6PD	EMA	Off (Never On)	Actionable PGx
+PA166121251	EMA Label for mercaptopurine and TPMT	EMA	Off (Never On)	Actionable PGx
+PA166115362	FDA Label for sodium nitrite and G6PD	FDA	On	Actionable PGx
+PA166122066	EMA Label for pertuzumab and ERBB2	EMA	Off (Never On)	Genetic testing required
+PA166119827	EMA Label for dextromethorphan,quinidine and CYP2D6	EMA	Off (Never On)	Actionable PGx
+PA166105232	FDA Label for quinine and CYP2D6,G6PD	FDA	On	Actionable PGx
+PA166115363	FDA Label for succimer and G6PD	FDA	On	Informative PGx
+PA166115365	FDA Label for trametinib and BRAF	FDA	On	Genetic testing required
+PA166114905	FDA Label for belimumab and TNFSF13B	FDA	Off (Never On)	Informative PGx
+PA166122546	EMA Label for rituximab and MS4A1	EMA	Off (Never On)	Genetic testing required
+PA166119826	EMA Label for dabrafenib and BRAF	EMA	Off (Never On)	Genetic testing required
+PA166122547	EMA Label for trastuzumab emtansine and ERBB2	EMA	Off (Never On)	Genetic testing required
+PA166123048	EMA Label for cabazitaxel and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166114481	EMA Label for trastuzumab and ERBB2	EMA	Off (Never On)	Genetic testing required
+PA166114903	FDA Label for afatinib and EGFR	FDA	On	Genetic testing required
+PA166122067	EMA Label for ponatinib and ABL1,BCR	EMA	Off (Never On)	Genetic testing required
+PA166114382	EMA Label for ticagrelor and CYP2C19	EMA	Off (Never On)	Actionable PGx
+PA166122594	FDA Label for sofosbuvir and IFNL3	FDA	On	Informative PGx
+PA166122607	FDA Label for vortioxetine and CYP2D6	FDA	On	Actionable PGx
+PA166114482	EMA Label for vemurafenib and BRAF	EMA	Off (Never On)	Genetic testing required
+PA166114908	FDA Label for carglumic acid and NAGS	FDA	On	Genetic testing required
+PA166115367	FDA Label for velaglucerase alfa and GBA	FDA	Off (Formerly On)	Genetic testing required
+PA166114926	FDA Label for mafenide and G6PD	FDA	On	Actionable PGx
+PA166114930	FDA Label for homoharringtonine and ABL1,BCR	FDA	On	Informative PGx
+PA166114907	FDA Label for bosutinib and ABL1,BCR	FDA	On	Genetic testing required
+PA166114921	FDA Label for ibritumomab and MS4A1	FDA	Off (Formerly On)	Informative PGx
+PA166114923	FDA Label for lomitapide and LDLR	FDA	On	Actionable PGx
+PA166105198	FDA Label for mitoxantrone	FDA	Off (Never On)	
+PA166105266	FDA Label for ticlopidine	FDA	Off (Never On)	
+PA166105208	FDA Label for nitric oxide	FDA	Off (Never On)	
+PA166105027	FDA Label for aliskiren	FDA	Off (Never On)	
+PA166105249	FDA Label for sirolimus	FDA	Off (Never On)	
+PA166105099	FDA Label for cyclophosphamide	FDA	Off (Never On)	
+PA166105152	FDA Label for heparin	FDA	Off (Never On)	
+PA166105237	FDA Label for ribavirin	FDA	Off (Never On)	
+PA166105170	FDA Label for ketoconazole	FDA	Off (Never On)	
+PA166105084	FDA Label for captopril	FDA	Off (Never On)	
+PA166105274	FDA Label for trazodone	FDA	Off (Never On)	
+PA166105111	FDA Label for dofetilide	FDA	Off (Never On)	
+PA166105126	FDA Label for etanercept	FDA	Off (Never On)	
+PA166105109	FDA Label for disulfiram	FDA	Off (Never On)	
+PA166105216	FDA Label for pamidronate	FDA	Off (Never On)	
+PA166105157	FDA Label for hydroxyurea	FDA	Off (Never On)	
+PA166105066	FDA Label for alprazolam	FDA	Off (Never On)	
+PA166105185	FDA Label for mefloquine	FDA	Off (Never On)	
+PA166105289	FDA Label for infliximab	FDA	Off (Never On)	
+PA166122488	EMA Label for regorafenib and KRAS,UGT1A1	EMA	Off (Never On)	Informative PGx
+PA166114378	EMA Label for telaprevir and IFNL3	EMA	Off (Never On)	Actionable PGx
+PA166114913	FDA Label for dabrafenib and G6PD	FDA	On	Actionable PGx
+PA166105265	FDA Label for tiagabine	FDA	Off (Never On)	
+PA166105238	FDA Label for risedronate	FDA	Off (Never On)	
+PA166105177	FDA Label for levodopa	FDA	Off (Never On)	
+PA166105225	FDA Label for procainamide	FDA	Off (Never On)	
+PA166105022	FDA Label for drotrecogin alfa	FDA	Off (Never On)	
+PA166105129	FDA Label for felbamate	FDA	Off (Never On)	
+PA166105035	FDA Label for pramipexole	FDA	Off (Never On)	
+PA166105071	FDA Label for asparaginase	FDA	Off (Never On)	
+PA166105043	FDA Label for interferon alfacon-1	FDA	Off (Never On)	
+PA166105246	FDA Label for sibutramine	FDA	Off (Never On)	
+PA166105288	FDA Label for azacitidine	FDA	Off (Never On)	
+PA166105021	FDA Label for oxaliplatin	FDA	Off (Never On)	
+PA166105128	FDA Label for etoposide	FDA	Off (Never On)	
+PA166105224	FDA Label for prednisone	FDA	Off (Never On)	
+PA166105094	FDA Label for clonidine	FDA	Off (Never On)	
+PA166105239	FDA Label for ritonavir	FDA	Off (Never On)	
+PA166105217	FDA Label for pentamidine	FDA	Off (Never On)	
+PA166105065	FDA Label for allopurinol	FDA	Off (Never On)	
+PA166105156	FDA Label for hydrocortisone	FDA	Off (Never On)	
+PA166105247	FDA Label for sildenafil	FDA	Off (Never On)	
+PA166122967	EMA Label for fesoterodine and CYP2D6	EMA	Off (Never On)	Actionable PGx
+PA166122826	EMA Label for voriconazole and CYP2C19,CYP2C9,CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166105195	FDA Label for metoclopramide and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD	FDA	On	Actionable PGx
+PA166105133	FDA Label for flucytosine	FDA	Off (Never On)	
+PA166105110	FDA Label for docetaxel	FDA	Off (Never On)	
+PA166105036	FDA Label for olmesartan	FDA	Off (Never On)	
+PA166105281	FDA Label for cyanocobalamin	FDA	Off (Never On)	
+PA166105276	FDA Label for vasopressin	FDA	Off (Never On)	
+PA166105044	FDA Label for peginterferon alfa-2a	FDA	Off (Never On)	
+PA166105105	FDA Label for diclofenac	FDA	Off (Never On)	
+PA166105089	FDA Label for chlordiazepoxide	FDA	Off (Never On)	
+PA166105088	FDA Label for chlorambucil	FDA	Off (Never On)	
+PA166105106	FDA Label for digoxin	FDA	Off (Never On)	
+PA166105278	FDA Label for verteporfin	FDA	Off (Never On)	
+PA166105034	FDA Label for zanamivir	FDA	Off (Never On)	
+PA166105045	FDA Label for decitabine	FDA	Off (Never On)	
+PA166105244	FDA Label for saquinavir	FDA	Off (Never On)	
+PA166105135	FDA Label for flunisolide	FDA	Off (Never On)	
+PA166105280	FDA Label for vinorelbine	FDA	Off (Never On)	
+PA166105019	FDA Label for bevacizumab	FDA	Off (Never On)	
+PA166105096	FDA Label for colchicine	FDA	Off (Never On)	
+PA166105178	FDA Label for lidocaine,prilocaine and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD	FDA	On	Actionable PGx
+PA166105263	FDA Label for theophylline	FDA	Off (Never On)	
+PA166105223	FDA Label for prednisolone	FDA	Off (Never On)	
+PA166105127	FDA Label for ethosuximide	FDA	Off (Never On)	
+PA166105183	FDA Label for lovastatin	FDA	Off (Never On)	
+PA166105245	FDA Label for sertraline	FDA	Off (Never On)	
+PA166105134	FDA Label for fludarabine	FDA	Off (Never On)	
+PA166105149	FDA Label for granisetron	FDA	Off (Never On)	
+PA166105250	FDA Label for sotalol	FDA	Off (Never On)	
+PA166105277	FDA Label for verapamil	FDA	Off (Never On)	
+PA166105087	FDA Label for ceftriaxone	FDA	Off (Never On)	
+PA166105107	FDA Label for diltiazem	FDA	Off (Never On)	
+PA166105179	FDA Label for lisinopril	FDA	Off (Never On)	
+PA166105264	FDA Label for thiotepa	FDA	Off (Never On)	
+PA166105222	FDA Label for piroxicam	FDA	Off (Never On)	
+PA166105184	FDA Label for medrysone	FDA	Off (Never On)	
+PA166105218	FDA Label for perindopril	FDA	Off (Never On)	
+PA166105018	FDA Label for ezetimibe	FDA	Off (Never On)	
+PA166105067	FDA Label for amiodarone	FDA	Off (Never On)	
+PA166105155	FDA Label for hydrocodone	FDA	Off (Never On)	
+PA166105160	FDA Label for idarubicin	FDA	Off (Never On)	
+PA166105095	FDA Label for cocaine	FDA	Off (Never On)	
+PA166105188	FDA Label for mephenytoin	FDA	Off (Never On)	
+PA166105162	FDA Label for indinavir	FDA	Off (Never On)	
+PA166105190	FDA Label for orciprenaline	FDA	Off (Never On)	
+PA166105286	FDA Label for zolpidem	FDA	Off (Never On)	
+PA166105228	FDA Label for propoxyphene	FDA	Off (Never On)	
+PA166105201	FDA Label for moxifloxacin	FDA	Off (Never On)	
+PA166105174	FDA Label for leflunomide	FDA	Off (Never On)	
+PA166105063	FDA Label for acetylcysteine	FDA	Off (Never On)	
+PA166105017	FDA Label for pemetrexed	FDA	Off (Never On)	
+PA166105262	FDA Label for thalidomide	FDA	Off (Never On)	
+PA166105257	FDA Label for temozolomide	FDA	Off (Never On)	
+PA166105040	FDA Label for bimatoprost	FDA	Off (Never On)	
+PA166105243	FDA Label for salmeterol	FDA	Off (Never On)	
+PA166105119	FDA Label for enoxaparin	FDA	Off (Never On)	
+PA166105051	FDA Label for micafungin	FDA	Off (Never On)	
+PA166105046	FDA Label for conjugated estrogens	FDA	Off (Never On)	
+PA166105101	FDA Label for cytarabine	FDA	Off (Never On)	
+PA166105290	FDA Label for sorafenib	FDA	Off (Never On)	
+PA166105214	FDA Label for oxycodone	FDA	Off (Never On)	
+PA166105200	FDA Label for morphine	FDA	Off (Never On)	
+PA166105062	FDA Label for acetazolamide	FDA	Off (Never On)	
+PA166105009	FDA Label for adalimumab	FDA	Off (Never On)	
+PA166105258	FDA Label for teniposide	FDA	Off (Never On)	
+PA166105285	FDA Label for ziprasidone	FDA	Off (Never On)	
+PA166105227	FDA Label for proguanil	FDA	Off (Never On)	
+PA166105091	FDA Label for chlorthalidone	FDA	Off (Never On)	
+PA166105161	FDA Label for ifosfamide	FDA	Off (Never On)	
+PA166105284	FDA Label for zileuton	FDA	Off (Never On)	
+PA166105279	FDA Label for vincristine	FDA	Off (Never On)	
+PA166105039	FDA Label for vorinostat	FDA	Off (Never On)	
+PA166105047	FDA Label for ethotoin	FDA	Off (Never On)	
+PA166105130	FDA Label for fenofibrate	FDA	Off (Never On)	
+PA166105102	FDA Label for dacarbazine	FDA	Off (Never On)	
+PA166105041	FDA Label for eplerenone	FDA	Off (Never On)	
+PA166105052	FDA Label for varenicline	FDA	Off (Never On)	
+PA166105145	FDA Label for gemfibrozil	FDA	Off (Never On)	
+PA166105093	FDA Label for clonazepam	FDA	Off (Never On)	
+PA166105283	FDA Label for zafirlukast	FDA	Off (Never On)	
+PA166105241	FDA Label for rivastigmine	FDA	Off (Never On)	
+PA166105132	FDA Label for fluconazole	FDA	Off (Never On)	
+PA166105037	FDA Label for fosphenytoin	FDA	Off (Never On)	
+PA166105042	FDA Label for exenatide	FDA	Off (Never On)	
+PA166105118	FDA Label for enalapril	FDA	Off (Never On)	
+PA166105048	FDA Label for treprostinil	FDA	Off (Never On)	
+PA166105103	FDA Label for daunorubicin	FDA	Off (Never On)	
+PA166105050	FDA Label for interferon alfa-2a, recombinant	FDA	Off (Never On)	
+PA166105186	FDA Label for melphalan	FDA	Off (Never On)	
+PA166105080	FDA Label for caffeine	FDA	Off (Never On)	
+PA166105175	FDA Label for leucovorin	FDA	Off (Never On)	
+PA166105260	FDA Label for teriparatide	FDA	Off (Never On)	
+PA166105226	FDA Label for procarbazine	FDA	Off (Never On)	
+PA166105191	FDA Label for metformin	FDA	Off (Never On)	
+PA166105203	FDA Label for naltrexone	FDA	Off (Never On)	
+PA166105016	FDA Label for ibandronate	FDA	Off (Never On)	
+PA166105159	FDA Label for ibutilide	FDA	Off (Never On)	
+PA166105231	FDA Label for quetiapine	FDA	Off (Never On)	
+PA166105038	FDA Label for temsirolimus	FDA	Off (Never On)	
+PA166105117	FDA Label for efavirenz	FDA	Off (Never On)	
+PA166105049	FDA Label for latanoprost	FDA	Off (Never On)	
+PA166105104	FDA Label for dexamethasone	FDA	Off (Never On)	
+PA166105146	FDA Label for glatiramer acetate	FDA	Off (Never On)	
+PA166105131	FDA Label for flecainide	FDA	Off (Never On)	
+PA166105282	FDA Label for vitamin e	FDA	Off (Never On)	
+PA166105192	FDA Label for methadone	FDA	Off (Never On)	
+PA166105242	FDA Label for rosiglitazone	FDA	Off (Never On)	
+PA166105215	FDA Label for paclitaxel	FDA	Off (Never On)	
+PA166105230	FDA Label for pyrimethamine	FDA	Off (Never On)	
+PA166105202	FDA Label for mycophenolate mofetil	FDA	Off (Never On)	
+PA166105259	FDA Label for terbutaline	FDA	Off (Never On)	
+PA166105092	FDA Label for clarithromycin	FDA	Off (Never On)	
+PA166105015	FDA Label for bortezomib	FDA	Off (Never On)	
+PA166105020	FDA Label for tegaserod	FDA	Off (Never On)	
+PA166105158	FDA Label for ibuprofen	FDA	Off (Never On)	
+PA166105163	FDA Label for indomethacin	FDA	Off (Never On)	
+PA166105199	FDA Label for montelukast	FDA	Off (Never On)	
+PA166105287	FDA Label for zonisamide	FDA	Off (Never On)	
+PA166122968	EMA Label for sildenafil	EMA	Off (Never On)	Informative PGx
+PA166122972	FDA Label for fesoterodine and CYP2D6	FDA	Off (Never On)	Actionable PGx
+PA166114910	FDA Label for chlorpropamide and G6PD	FDA	On	Actionable PGx
+PA166119825	EMA Label for carglumic acid and NAGS	EMA	Off (Never On)	Genetic testing required
+PA166105240	FDA Label for rituximab and MS4A1	FDA	On	Informative PGx
+PA166123423	EMA Label for tipranavir and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123424	EMA Label for darunavir and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123553	PMDA Label for abacavir and HLA-B	PMDA	Off (Never On)	Informative PGx
+PA166123409	EMA Label for aliskiren and ABCB1	EMA	Off (Never On)	Informative PGx
+PA166123416	EMA Label for ivabradine and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123390	EMA Label for fampridine and SLC22A2	EMA	Off (Never On)	Informative PGx
+PA166123418	EMA Label for posaconazole and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123419	EMA Label for indinavir and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123387	EMA Label for axitinib and CYP2C19,UGT1A1	EMA	Off (Never On)	Informative PGx
+PA166123388	EMA Label for ruxolitinib and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123420	EMA Label for fosamprenavir and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123535	PMDA Label for clopidogrel and CYP2C19	PMDA	Off (Never On)	Actionable PGx
+PA166123536	PMDA Label for crizotinib and ALK	PMDA	Off (Never On)	Genetic testing required
+PA166123786	FDA Label for fentanyl	FDA	Off (Never On)	
+PA166123412	EMA Label for sunitinib and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123414	EMA Label for dronedarone and CYP2D6,CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123417	EMA Label for telithromycin and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123527	PMDA Label for arsenic trioxide and PML,RARA	PMDA	Off (Never On)	Genetic testing required
+PA166123528	PMDA Label for atomoxetine and CYP2D6	PMDA	Off (Never On)	Actionable PGx
+PA166123487	FDA Label for eliglustat and CYP2D6	FDA	On	Genetic testing required
+PA166123537	PMDA Label for dasatinib and ABL1,BCR	PMDA	Off (Never On)	Genetic testing required
+PA166123408	EMA Label for vortioxetine and CYP2D6	EMA	Off (Never On)	Actionable PGx
+PA166123529	PMDA Label for atorvastatin and LDLR	PMDA	Off (Never On)	Actionable PGx
+PA166123530	PMDA Label for azathioprine and TPMT	PMDA	Off (Never On)	Actionable PGx
+PA166123538	PMDA Label for eltrombopag and SERPINC1	PMDA	Off (Never On)	Actionable PGx
+PA166123539	PMDA Label for fluorouracil and DPYD	PMDA	Off (Never On)	Actionable PGx
+PA166123421	EMA Label for atazanavir and CYP2C19	EMA	Off (Never On)	Genetic testing recommended
+PA166123531	PMDA Label for capecitabine and DPYD	PMDA	Off (Never On)	Actionable PGx
+PA166123532	PMDA Label for carbamazepine and HLA-B	PMDA	Off (Never On)	Informative PGx
+PA166123540	PMDA Label for fulvestrant and ESR1,ESR2	PMDA	Off (Never On)	Genetic testing required
+PA166123541	PMDA Label for gefitinib and EGFR	PMDA	Off (Never On)	Genetic testing required
+PA166123422	EMA Label for efavirenz,emtricitabine,tenofovir and CYP2B6	EMA	Off (Never On)	Actionable PGx
+PA166123410	EMA Label for ritonavir and CYP2D6,CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123411	EMA Label for sirolimus and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166123413	EMA Label for zonisamide and CYP3A4	EMA	Off (Never On)	Informative PGx
+PA166127644	HCSC Label for capecitabine and DPYD	HCSC		Actionable PGx
+PA166127645	HCSC Label for carbamazepine and HLA-A,HLA-B	HCSC		Genetic testing recommended
+PA166127646	HCSC Label for carvedilol and CYP2D6	HCSC		Actionable PGx
+PA166127647	HCSC Label for celecoxib and CYP2C9	HCSC		Actionable PGx
+PA166127648	HCSC Label for cetuximab and EGFR,KRAS	HCSC		Genetic testing required
+PA166127649	HCSC Label for chlorpropamide and G6PD	HCSC		Actionable PGx
+PA166127650	HCSC Label for citalopram and CYP2C19	HCSC		Actionable PGx
+PA166127702	HCSC Label for primaquine and CYB5R1,CYB5R2,CYB5R3,CYB5R4,G6PD	HCSC		Actionable PGx
+PA166127704	HCSC Label for propafenone and CYP2D6	HCSC		Actionable PGx
+PA166127705	HCSC Label for quinine and G6PD	HCSC		Actionable PGx
+PA166127706	HCSC Label for rabeprazole and CYP2C19	HCSC		Actionable PGx
+PA166127707	HCSC Label for rasburicase and G6PD	HCSC		Genetic testing recommended
+PA166127708	HCSC Label for risperidone and CYP2D6	HCSC		Informative PGx
+PA166127709	HCSC Label for rosuvastatin and LDLR	HCSC		Actionable PGx
+PA166129517	FDA Label for isoflurane and CACNA1S,RYR1	FDA	Off (Never On)	Actionable PGx
+PA166159584	HCSC Label for afutuzumab and MS4A1	HCSC		Informative PGx
+PA166129527	HCSC Label for ponatinib and ABI1,BCR	HCSC		Genetic testing required
+PA166151853	FDA Label for nilotinib and UGT1A1	FDA	On	Actionable PGx
+PA166129525	HCSC Label for carglumic acid and NAGS	HCSC		Genetic testing required
+PA166129526	HCSC Label for ceritinib and ALK	HCSC		Genetic testing required
+PA166124618	FDA Label for abiraterone and CYP17A1	FDA	Off (Never On)	Informative PGx
+PA166127699	HCSC Label for panitumumab and EGFR,KRAS	HCSC		Genetic testing required
+PA166127700	HCSC Label for pertuzumab and ERBB2	HCSC		Genetic testing required
+PA166127701	HCSC Label for phenytoin and HLA-B	HCSC		Genetic testing recommended
+PA166131627	FDA Label for osimertinib and EGFR	FDA	Off (Never On)	Genetic testing required
+PA166127632	HCSC Label for arsenic trioxide and PML,RARA	HCSC		Genetic testing required
+PA166127664	FDA Label for ibrutinib	FDA	On	Genetic testing required
+PA166127633	HCSC Label for atomoxetine and CYP2D6	HCSC		Actionable PGx
+PA166129553	FDA Label for belinostat and UGT1A1	FDA	On	Actionable PGx
+PA166127634	HCSC Label for atorvastatin and LDLR	HCSC		Actionable PGx
+PA166127635	HCSC Label for azathioprine and TPMT	HCSC		Actionable PGx
+PA166127640	HCSC Label for boceprevir and IFNL3	HCSC		Informative PGx
+PA166127641	HCSC Label for bosutinib and ABL1,BCR	HCSC		Genetic testing required
+PA166127660	HCSC Label for dasatinib and ABI1,BCR	HCSC		Genetic testing required
+PA166127661	HCSC Label for dexlansoprazole and CYP2C19	HCSC		Actionable PGx
+PA166127717	HCSC Label for erythromycin,sulfisoxazole and G6PD	HCSC		Actionable PGx
+PA166127670	HCSC Label for esomeprazole and CYP2C19	HCSC		Informative PGx
+PA166127672	HCSC Label for exemestane and ESR1,ESR2	HCSC		Genetic testing required
+PA166127673	HCSC Label for fesoterodine and CYP2D6	HCSC		Actionable PGx
+PA166127674	HCSC Label for fluorouracil and DPYD	HCSC		Actionable PGx
+PA166127682	HCSC Label for imatinib and ABI1,BCR,FIP1L1,KIT,PDGFRA,PDGFRB	HCSC		Genetic testing required
+PA166127665	HCSC Label for divalproex sodium and POLG	HCSC		Genetic testing required
+PA166127721	HCSC Label for tolterodine and CYP2D6	HCSC		Informative PGx
+PA166127671	HCSC Label for everolimus and ERBB2	HCSC		Genetic testing required
+PA166127685	HCSC Label for lapatinib and ERBB2,HLA-DQA1,HLA-DRB1	HCSC		Genetic testing required
+PA166127675	HCSC Label for galantamine and CYP2D6	HCSC		Informative PGx
+PA166127683	HCSC Label for irinotecan and UGT1A1	HCSC		Actionable PGx
+PA166127722	HCSC Label for trametinib and BRAF	HCSC		Genetic testing required
+PA166127724	HCSC Label for trastuzumab and ERBB2	HCSC		Genetic testing required
+PA166127686	HCSC Label for lenalidomide	HCSC		Informative PGx
+PA166127687	HCSC Label for letrozole and ESR1,ESR2,PGR	HCSC		Genetic testing required
+PA166127688	HCSC Label for lomitapide and LDLR	HCSC		Actionable PGx
+PA166127693	HCSC Label for nilotinib and ABI1,BCR	HCSC		Genetic testing required
+PA166127694	HCSC Label for nitrofurantoin and G6PD	HCSC		Actionable PGx
+PA166127684	HCSC Label for ivacaftor and CFTR	HCSC		Genetic testing required
+PA166151882	FDA Label for carbamazepine and HLA-A	FDA	On	Actionable PGx
+PA166160021	FDA Label for cabozantinib and RET	FDA	On	Informative PGx
+PA166127723	HCSC Label for trastuzumab emtansine and ERBB2	HCSC		Genetic testing required
+PA166127725	HCSC Label for tretinoin and PML,RARA	HCSC		Genetic testing required
+PA166127689	HCSC Label for maraviroc and CCR5	HCSC		Genetic testing required
+PA166127695	HCSC Label for ethinyl estradiol,norelgestromin and F2,F5,MTHFR,PROC,PROS1,SERPINC1	HCSC		Actionable PGx
+PA166127696	HCSC Label for norfloxacin and G6PD	HCSC		Actionable PGx
+PA166129519	FDA Label for sevoflurane and CACNA1S,RYR1	FDA	On	Actionable PGx
+PA166127726	HCSC Label for valproic acid and OTC,POLG	HCSC		Actionable PGx
+PA166127727	HCSC Label for velaglucerase alfa and GBA	HCSC		Genetic testing required
+PA166127690	HCSC Label for mercaptopurine and TPMT	HCSC		Actionable PGx
+PA166127697	HCSC Label for nortriptyline and CYP2D6	HCSC		Actionable PGx
+PA166127698	HCSC Label for omeprazole and CYP2C19	HCSC		Informative PGx
+PA166129520	HCSC Label for sevoflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx
+PA166127728	HCSC Label for vemurafenib and BRAF	HCSC		Genetic testing required
+PA166127729	HCSC Label for vitamin c and G6PD	HCSC		Actionable PGx
+PA166160061	FDA Label for dinutuximab and MYCN	FDA	On	Informative PGx
+PA166123526	PMDA Label for irinotecan and UGT1A1	PMDA	Off (Never On)	Actionable PGx
+PA166123544	PMDA Label for lapatinib and ERBB2	PMDA	Off (Never On)	Genetic testing required
+PA166127719	HCSC Label for tetrabenazine and CYP2D6	HCSC		Actionable PGx
+PA166127720	HCSC Label for thioguanine and TPMT	HCSC		Actionable PGx
+PA166123545	PMDA Label for lenalidomide	PMDA	Off (Never On)	Informative PGx
+PA166123546	PMDA Label for mycophenolic acid and HPRT1	PMDA	Off (Never On)	Actionable PGx
+PA166129447	EMA Label for eliglustat and CYP2D6	EMA		Genetic testing required
+PA166129450	EMA Label for trametinib and BRAF	EMA		Genetic testing required
+PA166123547	PMDA Label for panitumumab and KRAS	PMDA	Off (Never On)	Genetic testing required
+PA166123548	PMDA Label for rasburicase and G6PD	PMDA	Off (Never On)	Genetic testing required
+PA166129518	HCSC Label for isoflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx
+PA166127710	HCSC Label for simeprevir and IFNL3	HCSC		Informative PGx
+PA166127712	HCSC Label for sodium phenylbutyrate and ASS1,CPS1,OTC	HCSC		Genetic testing required
+PA166129448	EMA Label for ibrutinib	EMA		Genetic testing required
+PA166123549	PMDA Label for tolterodine and CYP2D6	PMDA	Off (Never On)	Informative PGx
+PA166123550	PMDA Label for trastuzumab and ERBB2	PMDA	Off (Never On)	Genetic testing required
+PA166129528	HCSC Label for sodium nitrite and G6PD	HCSC		Actionable PGx
+PA166127713	HCSC Label for succinylcholine and BCHE	HCSC		Actionable PGx
+PA166123551	PMDA Label for tretinoin and PML,RARA	PMDA	Off (Never On)	Informative PGx
+PA166123552	PMDA Label for valproic acid and CPS1,OTC	PMDA	Off (Never On)	Actionable PGx
+PA166127714	HCSC Label for sulfadiazine and G6PD	HCSC		Actionable PGx
+PA166127715	HCSC Label for sulfamethoxazole,trimethoprim and G6PD	HCSC		Actionable PGx
+PA166104776	FDA Label for warfarin and CYP2C9,PROC,PROS1,VKORC1	FDA	On	Actionable PGx
+PA166127730	HCSC Label for voriconazole and CYP2C19	HCSC		Actionable PGx
+PA166127731	HCSC Label for vortioxetine and CYP2D6	HCSC		Actionable PGx
+PA166127716	HCSC Label for sulfasalazine and G6PD	HCSC		Actionable PGx
+PA166124617	FDA Label for ceritinib and ALK	FDA	On	Genetic testing required
+PA166127662	FDA Label for arformoterol and CYP2D6,UGT1A1	FDA	On	Informative PGx
+PA166127732	HCSC Label for warfarin and CYP2C9,VKORC1	HCSC		Actionable PGx
+PA166127718	HCSC Label for tamoxifen and CYP2D6,ESR1,ESR2	HCSC		Genetic testing required
+PA166129449	EMA Label for ceritinib and ALK	EMA		Genetic testing required
+PA166129515	FDA Label for desflurane and CACNA1S,RYR1	FDA	Off (Never On)	Actionable PGx
+PA166127691	HCSC Label for metoprolol and CYP2D6	HCSC		Actionable PGx
+PA166127692	HCSC Label for mycophenolic acid and HPRT1	HCSC		Actionable PGx
+PA166127655	HCSC Label for crizotinib and ALK	HCSC		Genetic testing required
+PA166127656	HCSC Label for dabrafenib and BRAF	HCSC		Genetic testing required
+PA166129516	HCSC Label for desflurane and CACNA1S,RYR1	HCSC	Off (Never On)	Actionable PGx
+PA166127627	HCSC Label for abacavir and HLA-B	HCSC		Genetic testing required
+PA166127628	HCSC Label for acetaminophen,tramadol and CYP2D6	HCSC		Actionable PGx
+PA166151881	FDA Label for rasburicase and G6PD	FDA	On	Genetic testing required
+PA166127653	HCSC Label for clopidogrel and CYP2C19	HCSC		Actionable PGx
+PA166127666	HCSC Label for drospirenone,ethinyl estradiol and F5,PROC,PROS1,SERPINC1	HCSC		Actionable PGx
+PA166127667	HCSC Label for efavirenz,emtricitabine,tenofovir and CYP2B6	HCSC		Actionable PGx
+PA166127629	HCSC Label for afatinib and EGFR	HCSC		Genetic testing required
+PA166127630	HCSC Label for anastrozole and ESR1,ESR2,PGR	HCSC		Genetic testing required
+PA166127676	HCSC Label for gefitinib and EGFR	HCSC		Genetic testing required
+PA166127677	HCSC Label for glibenclamide and G6PD	HCSC		Actionable PGx
+PA166127654	HCSC Label for codeine and CYP2D6	HCSC		Actionable PGx
+PA166127668	HCSC Label for eltrombopag and F5,SERPINC1	HCSC		Actionable PGx
+PA166127669	HCSC Label for erlotinib and EGFR	HCSC		Genetic testing required
+PA166127663	FDA Label for divalproex sodium and POLG	FDA	Off (Formerly On)	Genetic testing required
+PA166127631	HCSC Label for aripiprazole and CYP2D6	HCSC		Actionable PGx
+PA166127678	HCSC Label for glimepiride and G6PD	HCSC		Actionable PGx
+PA166127681	HCSC Label for ibrutinib	HCSC		Genetic testing required
+PA166127657	HCSC Label for dapsone and G6PD	HCSC		Actionable PGx
+PA166127659	HCSC Label for darifenacin and CYP2D6	HCSC		Actionable PGx

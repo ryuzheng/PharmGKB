@@ -1,0 +1,5 @@
+gene name: SLC6A4
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs
+PA161749006	Selective_Serotonin_Reuptake_Inhibitor_Pathway_Pharmacodynamics	citalopram,fluoxetine,fluvoxamine,paroxetine,sertraline	Inhibition	SLC6A4	SLC6A4	SLC6A4	fluoxetine,"paroxetine","fluvoxamine","citalopram","sertraline"
+PA161749006	Selective_Serotonin_Reuptake_Inhibitor_Pathway_Pharmacodynamics	SLC6A4	Catalysis	serotonin	serotonin	SLC6A4	
+PA166014758	Venlafaxine_Pathway_Pharmacokinetics	O-desmethyl venlafaxine,venlafaxine	Control	SLC6A4	SLC6A4	SLC6A4	venlafaxine

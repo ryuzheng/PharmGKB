@@ -1,0 +1,4 @@
+gene name: NR3C2
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs
+PA2023	ACE_Inhibitor_Pathway_Pharmacodynamics	aldosterone	Control	NR3C2	NR3C2	NR3C2	
+PA165110622	Agents_Acting_on_the_Renin_Angiotensin_System_Pathway_Pharmacodynamics	aldosterone,eplerenone,spironolactone	Control	NR3C2	NR3C2	NR3C2	eplerenone,"spironolactone"

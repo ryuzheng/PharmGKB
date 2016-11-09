@@ -1,0 +1,2 @@
+gene name: EDNRA
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs

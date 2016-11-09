@@ -1,0 +1,2 @@
+gene name: SLC10A2
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs

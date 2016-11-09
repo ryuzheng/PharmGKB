@@ -1,0 +1,6 @@
+gene name: SLC6A2
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs
+PA166014758	Venlafaxine_Pathway_Pharmacokinetics	O-desmethyl venlafaxine,venlafaxine	Control	SLC6A2	SLC6A2	SLC6A2	venlafaxine
+PA2042	Sympathetic_Nerve_Pathway_Neuroeffector_Junction	desipramine	Control	SLC6A2	SLC6A2	SLC6A2	desipramine
+PA2042	Sympathetic_Nerve_Pathway_Neuroeffector_Junction	SLC6A2	Catalysis	norepinephrine	norepinephrine	SLC6A2	
+PA2042	Sympathetic_Nerve_Pathway_Neuroeffector_Junction	SLC6A2	Catalysis	norepinephrine	norepinephrine	SLC6A2	

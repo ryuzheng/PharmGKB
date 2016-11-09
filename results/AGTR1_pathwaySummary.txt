@@ -1,0 +1,7 @@
+gene name: AGTR1
+PathwayID	PathwayName	Controller	Control Type	From	To	Genes	Drugs
+PA2023	ACE_Inhibitor_Pathway_Pharmacodynamics	angiotensin II	Control	AGTR1	AGTR1	AGTR1	
+PA2023	ACE_Inhibitor_Pathway_Pharmacodynamics	AGTR1	Control	calcium	calcium	AGTR1	
+PA165110622	Agents_Acting_on_the_Renin_Angiotensin_System_Pathway_Pharmacodynamics	angiotensin II,Angiotensin II Antagonists	Control	AGTR1	AGTR1	AGTR1	Angiotensin II Antagonists
+PA165110622	Agents_Acting_on_the_Renin_Angiotensin_System_Pathway_Pharmacodynamics	AGTR1	Control	calcium	calcium	AGTR1	
+PA164713428	Losartan_Pathway_Pharmacokinetics	E-3174,losartan	Control	AGTR1	AGTR1	AGTR1	losartan
